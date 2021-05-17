@@ -1,3 +1,8 @@
+---
+layout: single
+title: "Pandas Merge 한 눈에 정리"
+---
+
 ##### Python for Data Analysis, Wes McKinney
 ##### Chapter 7 참고하여 작성하였습니다. (Chapter 7- Data Wrangling: Clean, Transform, Merge, Reshape)
 

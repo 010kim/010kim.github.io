@@ -1,3 +1,10 @@
+---
+layout: single
+title: "Pandas의 Categorical Type란"
+excerpt: "Categorical Type 설명"
+classes: wide
+---
+
 ## Pandas의 Categorical Type란
 
 Pandas에는 Categorical Type이 존재한다. Column Type의 흔한 예시로 int64와 String Object가 있는데, 'Categorical'이라고 불리는 Type은 다소 생소하다. Titanic 데이터를 예시로 사용해보자. 

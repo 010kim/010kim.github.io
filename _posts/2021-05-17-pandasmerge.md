@@ -1,11 +1,15 @@
 ---
 layout: single
 title: "Pandas Merge 한 눈에 정리"
+toc: true
+toc_label: "My Table of Contents"
+toc_icon: "cog"
+excerpt: "이 게시물을 말하자면..."
+classes: wide
 ---
 
-##### Python for Data Analysis, Wes McKinney
-##### Chapter 7 참고하여 작성하였습니다. (Chapter 7- Data Wrangling: Clean, Transform, Merge, Reshape)
 
+# 11
 ## I. Merge, Concat, Combine_First
 
 ### Merge
@@ -474,4 +478,5 @@ pd.merge(df1, df2, how='outer')
 </table>
 </div>
 
-
+##### Python for Data Analysis, Wes McKinney
+##### Chapter 7 참고하여 작성하였습니다. (Chapter 7- Data Wrangling: Clean, Transform, Merge, Reshape)
